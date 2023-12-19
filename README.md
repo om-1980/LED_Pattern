@@ -9,8 +9,9 @@ LED pattern refers to the specific arrangement or sequence of illuminated or bli
  * Breadboard
 
  # Circuit Diagram
-" D:\Projects\LED_Pattern\circuit.jpg"
-"D:\Projects\LED_Pattern\circuit.png"
+![circuit](https://github.com/om-1980/LED_Pattern/assets/111452597/a8b75b25-9622-49e4-aac9-6be96a8e7d67)
+![circuit](https://github.com/om-1980/LED_Pattern/assets/111452597/7befb35d-7177-442c-8823-ad2f9cd89f59)
+
 
 # Demo Link
 https://www.tinkercad.com/things/9IRe7BeD8Em-ledpattern
